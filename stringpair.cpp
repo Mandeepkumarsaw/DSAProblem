@@ -9,7 +9,7 @@ using namespace std;
 class stringpair{
     public:
     int maximumNumberOfStringPairs(vector<string>& words){
-        int count=0;
+        int tally=0;
         unordered_set<string> seen;
 
         for(auto &s:words){
@@ -17,11 +17,11 @@ class stringpair{
             reverse(reversed.begin(),reversed.end());
 
             if(seen.count(reversed)){
-                count++;
+                tally++;
             }
             seen.insert(s);
         }
-        return count;
+        return tally;
     }
 };
 
