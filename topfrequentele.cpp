@@ -38,11 +38,11 @@ public:
 
 
 int main() {
-    topfrequentele sol;
+    topfrequentele obj;
     vector<int> nums = {1, 1, 1, 2, 2, 3};  // Example input
     int k = 2;
 
-    vector<int> result = sol.topKFrequent(nums,k);
+    vector<int> result = obj.topKFrequent(nums,k);
      cout<<"Top "<<k <<"frequent element: ";
      for(int num:result){
         cout<<num<<" ";
