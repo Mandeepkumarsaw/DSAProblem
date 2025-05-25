@@ -27,7 +27,7 @@ public:
 };
 
 int main(){
-    string s = "aba";
+    string s = "aba";     //you can take user input also
     palindromestr obj;
     int res=obj.countSubstrings(s);
 
