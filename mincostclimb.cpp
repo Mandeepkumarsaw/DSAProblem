@@ -24,7 +24,7 @@ int main(){
     vector<int> cost={10,15,20};
     mincostclimb obj;
     int res=obj.minCostClimbingStairs(cost);
-    cout<<"The minimum cost of climbing stairs: "<<res<<endl;
+    cout<<"The minimum cost of climbing stairs to TOP : "<<res<<endl;
 
     
 }
