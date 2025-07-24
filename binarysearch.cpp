@@ -2,7 +2,7 @@
 using namespace std;
 
 
-class binarysearch {
+class binarysearch {   //TC--O(log n)
 public:
     int search(vector<int>& nums, int target) {
        int  st=0, end=nums.size()-1;
