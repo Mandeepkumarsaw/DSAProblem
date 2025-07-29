@@ -35,7 +35,7 @@ public:
 
 int main() {
     Subset sol;
-    vector<int> nums = {1, 2, 3};  
+    vector<int> nums = {1, 2, 2};  
 
     vector<vector<int>> result = sol.subsets(nums);
 
