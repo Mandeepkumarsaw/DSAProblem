@@ -14,7 +14,7 @@ public:
         //Build power arr
         for(int i=0;i<32;i++){
             if((n & (1 << i)) != 0) {  //check that ith bit is in set or not if true then it store
-            powers.push_back(1<<i);  //2 ka power i(2^i)
+            powers.push_back(1<<i);  //2 ka power i(2^i).
 
             }
         }
