@@ -26,7 +26,7 @@ public:
      
                maxlength = max(maxlength,right-left + 1);
 
-               i = right;
+               i = right;  //done to stop while loop by putting i=right & when you get peak
 
         } else {
                
@@ -42,7 +42,7 @@ public:
 
 int main(){
     Solution obj;
-    vector<int> arr = {2, 1, 4, 7, 3, 2};
+    vector<int> arr = {2, 1, 4, 7, 3, 2, 5, 6, 5, 4};
 
     int res=obj.longestMountain(arr);
     cout<<"Longest Mountain is of Length : "<<res;
