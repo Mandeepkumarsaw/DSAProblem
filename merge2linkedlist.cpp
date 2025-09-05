@@ -17,7 +17,7 @@ public:
         return head1 == NULL ? head2 : head1;
       }
 
-
+ 
       if(head1->val <= head2->val) {
           head1->next=mergeTwoLists(head1->next,head2);      //call recursive func again with incre of resultant node
         return head1;                                        //The output of recursive func after calling is resultant node ie  head1->next  = resultant node & again calling until both node become null
