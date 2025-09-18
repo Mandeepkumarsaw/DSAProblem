@@ -48,7 +48,7 @@ public:
       return newHead;
       }
 
-
+      //prnt
       void printLL(ListNode *head) {        //O(n)
         ListNode *temp = head;
         while(temp != NULL) {
