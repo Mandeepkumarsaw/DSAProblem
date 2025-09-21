@@ -13,9 +13,9 @@ public:
                 s.pop();
             }
             if(s.empty()) {
-                m[nums2[i]] = -1;
+                m[nums2[i]] = -1;          //key -> value
             } else {
-                m[nums2[i]] = s.top();
+                m[nums2[i]] = s.top();     //key -> value
             }
             // m[nums2[i]] = s.empty() ? -1 : s.top();
             s.push(nums2[i]);
