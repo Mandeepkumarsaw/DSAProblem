@@ -6,7 +6,7 @@ using namespace std;
 
 class MinStack {
 public:
-    std::stack<std::pair<int, int>> s;
+    stack<pair<int, int>> s;
 
     MinStack() {
         // Constructor
@@ -14,10 +14,10 @@ public:
 
     void push(int val) {
         if (s.empty()) {
-            s.push(std::make_pair(val, val));
+            s.push(make_pair(val, val));                   //Or s.push({val, val});
         } else {
             int minval = std::min(val, s.top().second);
-            s.push(std::make_pair(val, minval));
+            s.push({val, minval});                            
         }
     }
 
@@ -31,14 +31,14 @@ public:
         if (!s.empty()) {
             return s.top().first;
         }
-        throw std::runtime_error("Stack is empty");
+        throw runtime_error("Stack is empty");
     }
 
     int getMin() {
         if (!s.empty()) {
             return s.top().second;
         }
-        throw std::runtime_error("Stack is empty");
+        throw runtime_error("Stack is empty");
     }
 };
 
