@@ -26,6 +26,8 @@ public:
 int main() {
     Solution obj;
     vector<int> temperatures = {73,74,75,71,69,72,76};
+
+    
     cout<<"Dailt Temperatures: ";
     cout<<"{";
     for(int sol:temperatures){
