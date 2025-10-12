@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-class Solution {
+class Solution {             //most ptimal approach
 public:
     int trap(vector<int>& height) {
         int n = height.size();
