@@ -34,6 +34,7 @@ public:
         isSubtree(root->right,subRoot);
     }
 
+                                                                        //Code to build Tree    
     TreeNode* buildTree(vector<int>& order,int &idx) {
      if(idx >= order.size() || order[idx] == -1) {
         idx++;
