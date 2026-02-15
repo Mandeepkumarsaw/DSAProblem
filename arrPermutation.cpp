@@ -18,7 +18,7 @@ public:
 };
 int main() {
     Solution obj;
-    vector<int> nums = {};
+    vector<int> nums = {0,5,4,7,3};
     obj.buildArray(nums);
 
     cout<<"After Operation: ";
