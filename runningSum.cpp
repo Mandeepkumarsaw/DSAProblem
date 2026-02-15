@@ -17,4 +17,13 @@ public:
 };
 int main() {
     Solution obj;
+    vector<int> nums = {1,2,3,4};
+    obj.runningSum(nums);
+
+    cout<<"Running Sum: ";
+    for(int ele : nums) {
+        cout<<ele<<" ";
+    }
+
+    return 0;
 }
