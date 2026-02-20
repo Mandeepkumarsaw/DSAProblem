@@ -24,6 +24,7 @@ public:
   
     //   } 
 
+    // Dutch National Flag Algo
        void sort(vector<int>& nums) {           //best case--optimal approach
        int n = nums.size();
        int low = 0 , mid = 0, high = n-1;
