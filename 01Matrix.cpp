@@ -62,8 +62,9 @@ int main(){
     vector<vector<int>> ans = obj.updateMatrix(mat);
     for(auto &row: ans){
         for(auto &ele : row){
-            cout<<ele
-        }cout<<"\n";
+            cout<<ele<<" ";
+        }
+        cout<<"\n";
     }
 
 }
