@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-class Solution {  //Brute Force Approach
+class Solution {  //Brute Force Approach   O(m*n*log (m+n))
 public:
     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
         int m = mat.size();
@@ -55,17 +55,8 @@ int main(){
 
 
 
-
-
-
-
-
-
-
-
-
 //Optimed version
-// class Solution {
+// class Solution {          //O(m*n)
 // public:
 //     vector<int> findDiagonalOrder(vector<vector<int>>& mat) {
 //         int m = mat.size();
