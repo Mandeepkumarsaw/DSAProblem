@@ -7,7 +7,7 @@ public:
         int m = mat.size();  //row wise traversal only
         int Dsum = 0;
 
-        for(int i=0;i<m;i++){
+        for(int i= 0;i<m;i++){
             Dsum += mat[i][i];
             Dsum += mat[i][m-1-i];
         }
