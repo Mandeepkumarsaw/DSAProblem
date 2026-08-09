@@ -3,50 +3,47 @@ using namespace std;
 
 class Solution {
 public:
-    int dp[50005];
+    int t[2][101][101];
+    int n;
 
-    int solve(vector<int>& stoneValue, int i) {
-        if (i >= stoneValue.size())
-            return 0;
-        if (dp[i] != INT_MIN)
-            return dp[i];
+    int solveWithAlice(vector<int>& piles,int person,int i,int M){
+        if(i>=n) return 0;
 
-        int take = 0;
-        int ans = INT_MIN;
-
-        for (int k = 0; k < 3 && i + k < stoneValue.size(); k++) {
-            take += stoneValue[i + k];
-            ans = max(ans, take - solve(stoneValue, i + k + 1));
+        if(t[person][i][M] != -1){
+            return t[person][i][M];
         }
-        return dp[i] = ans;
+
+        int result = (person==1) ? -1 : INT_MAX;
+        int stone = 0;
+
+        for(int x=1;x<= min(2*M,n-i);x++){
+            stone += piles[i+x-1];
+
+            if(person == 1){
+                result = max(result,stone + solveWithAlice(piles,0,i+x,max(M,x)));
+            } else{
+                result = min(result,solveWithAlice(piles,1,i+x,max(M,x)));
+            }
+        }
+
+        return t[person][i][M] = result;
     }
 
-    string stoneGameIII(vector<int>& stoneValue) {
-        for (int i = 0; i < 50005; i++)
-            dp[i] = INT_MIN;
-
-        int diff = solve(stoneValue, 0);
-
-        if (diff > 0) return "Alice";
-        if (diff < 0) return "Bob";
-        return "Tie";
+    int stoneGameII(vector<int>& piles) {
+        n=piles.size();
+        memset(t,-1,sizeof(t));
+        return solveWithAlice(piles,1,0,1);
     }
 };
 
 int main() {
     Solution sol;
 
-    vector<int> piles1 = {1, 2, 3, 7};
-    cout << sol.stoneGameIII(piles1) << endl;  
+    // Example test case
+    vector<int> piles = {2,7,9,4,4};  // You can change values
+    int result = sol.stoneGameII(piles);
 
-    vector<int> piles2 = {1, 2, 3, -9};
-    cout << sol.stoneGameIII(piles2) << endl;  
-
-    vector<int> piles3 = {1, 2, 3, 6};
-    cout << sol.stoneGameIII(piles3) << endl;  
-
-    vector<int> piles4 = {1, 2, 3, -1, -2, -3, 7};
-    cout << sol.stoneGameIII(piles4) << endl;  
+    cout << "Maximum stones Alice can get: " << result << endl;
 
     return 0;
 }
