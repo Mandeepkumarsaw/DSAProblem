@@ -112,3 +112,19 @@ If you find this repository helpful:
 ---
 
 > 💡 *“Consistency in solving problems is the key to mastering DSA.”*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
+<!---LeetCode Topics End-->
