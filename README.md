@@ -127,4 +127,20 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
