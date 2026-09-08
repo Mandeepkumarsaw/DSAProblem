@@ -122,6 +122,7 @@ If you find this repository helpful:
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
@@ -143,4 +144,12 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
