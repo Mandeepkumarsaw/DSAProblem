@@ -157,6 +157,7 @@ If you find this repository helpful:
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0006-zigzag-conversion) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
