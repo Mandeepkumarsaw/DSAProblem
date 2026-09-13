@@ -120,6 +120,7 @@ If you find this repository helpful:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -150,6 +151,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -181,9 +183,18 @@ If you find this repository helpful:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
