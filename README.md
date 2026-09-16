@@ -126,12 +126,14 @@ If you find this repository helpful:
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -211,4 +213,12 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
