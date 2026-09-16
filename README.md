@@ -164,6 +164,7 @@ If you find this repository helpful:
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0006-zigzag-conversion) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,6 +210,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
+| [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -221,4 +223,12 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
