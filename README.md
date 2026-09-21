@@ -163,6 +163,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0006-zigzag-conversion) |
+| [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
@@ -245,6 +246,7 @@ If you find this repository helpful:
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
