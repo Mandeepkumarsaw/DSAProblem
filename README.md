@@ -185,6 +185,7 @@ If you find this repository helpful:
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0550-game-play-analysis-iv) |
