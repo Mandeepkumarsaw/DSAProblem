@@ -131,6 +131,7 @@ If you find this repository helpful:
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -164,6 +165,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
@@ -265,4 +267,8 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
