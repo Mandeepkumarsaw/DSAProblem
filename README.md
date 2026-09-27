@@ -219,6 +219,7 @@ If you find this repository helpful:
 | [1341-movie-rating](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1683-invalid-tweets) |
