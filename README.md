@@ -119,6 +119,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0303-range-sum-query-immutable) |
@@ -281,4 +282,5 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
