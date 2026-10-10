@@ -124,6 +124,7 @@ If you find this repository helpful:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0219-contains-duplicate-ii) |
@@ -138,6 +139,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
@@ -274,6 +276,7 @@ If you find this repository helpful:
 | ------- |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
@@ -301,8 +304,17 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
