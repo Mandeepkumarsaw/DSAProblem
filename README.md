@@ -125,6 +125,7 @@ If you find this repository helpful:
 | [0118-pascals-triangle](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
@@ -136,6 +137,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -269,6 +271,7 @@ If you find this repository helpful:
 | ------- |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
