@@ -134,6 +134,7 @@ If you find this repository helpful:
 | [0283-move-zeroes](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +148,7 @@ If you find this repository helpful:
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +203,7 @@ If you find this repository helpful:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Database
@@ -278,6 +281,7 @@ If you find this repository helpful:
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -287,6 +291,7 @@ If you find this repository helpful:
 | [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
