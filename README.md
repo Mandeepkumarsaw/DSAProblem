@@ -130,6 +130,7 @@ If you find this repository helpful:
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
@@ -273,6 +274,7 @@ If you find this repository helpful:
 | ------- |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
