@@ -130,6 +130,7 @@ If you find this repository helpful:
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
@@ -145,6 +146,7 @@ If you find this repository helpful:
 | [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
@@ -198,6 +200,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Database
@@ -283,6 +286,7 @@ If you find this repository helpful:
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -305,6 +309,7 @@ If you find this repository helpful:
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -326,4 +331,5 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
