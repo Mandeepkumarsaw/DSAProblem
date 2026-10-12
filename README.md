@@ -118,6 +118,7 @@ If you find this repository helpful:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
@@ -145,6 +146,7 @@ If you find this repository helpful:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
