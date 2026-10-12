@@ -137,6 +137,7 @@ If you find this repository helpful:
 | [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0414-third-maximum-number) |
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -293,6 +294,7 @@ If you find this repository helpful:
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0414-third-maximum-number) |
 ## Recursion
 |  |
 | ------- |
