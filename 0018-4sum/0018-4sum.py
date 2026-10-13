@@ -10,7 +10,7 @@ class Solution:
                     ReqSum = target - nums[i] - nums[j] - nums[k]
 
                     if ReqSum in kset:
-                        ans.add(tuple(sorted([nums[i],nums[j],nums[k],ReqSum])))
+                        ans.add(tuple(sorted([nums[i],nums[j],nums[k],ReqSum])))   #you can also sort the nums at start to avoid sorting here
 
                     kset.add(nums[k])   
 
