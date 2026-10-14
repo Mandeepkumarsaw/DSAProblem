@@ -128,6 +128,7 @@ If you find this repository helpful:
 | [0027-remove-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -219,6 +220,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
