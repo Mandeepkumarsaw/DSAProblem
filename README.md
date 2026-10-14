@@ -125,6 +125,7 @@ If you find this repository helpful:
 | [0016-3sum-closest](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -299,6 +300,7 @@ If you find this repository helpful:
 | [0016-3sum-closest](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
