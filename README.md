@@ -206,6 +206,7 @@ If you find this repository helpful:
 | [0014-longest-common-prefix](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
@@ -345,6 +346,7 @@ If you find this repository helpful:
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
@@ -352,6 +354,7 @@ If you find this repository helpful:
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
