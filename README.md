@@ -204,6 +204,7 @@ If you find this repository helpful:
 | [0006-zigzag-conversion](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
@@ -344,6 +345,7 @@ If you find this repository helpful:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -384,4 +386,8 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
