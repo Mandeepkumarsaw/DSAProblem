@@ -130,6 +130,7 @@ If you find this repository helpful:
 | [0033-search-in-rotated-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -161,6 +162,7 @@ If you find this repository helpful:
 | ------- |
 | [0001-two-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0219-contains-duplicate-ii) |
@@ -211,6 +213,7 @@ If you find this repository helpful:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
@@ -336,6 +339,7 @@ If you find this repository helpful:
 | [0015-3sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0217-contains-duplicate) |
