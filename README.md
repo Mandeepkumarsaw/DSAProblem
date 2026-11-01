@@ -215,6 +215,7 @@ If you find this repository helpful:
 | [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
@@ -366,6 +367,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Math
@@ -374,6 +376,7 @@ If you find this repository helpful:
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 ## Divide and Conquer
@@ -396,6 +399,7 @@ If you find this repository helpful:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 ## Trie
