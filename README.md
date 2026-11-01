@@ -207,6 +207,7 @@ If you find this repository helpful:
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
@@ -290,6 +291,7 @@ If you find this repository helpful:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -393,4 +395,9 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
