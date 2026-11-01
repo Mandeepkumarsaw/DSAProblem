@@ -210,6 +210,7 @@ If you find this repository helpful:
 | [0022-generate-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
@@ -359,12 +360,14 @@ If you find this repository helpful:
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
