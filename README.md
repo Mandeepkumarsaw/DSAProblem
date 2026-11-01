@@ -132,6 +132,7 @@ If you find this repository helpful:
 | [0035-search-insert-position](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0118-pascals-triangle) |
@@ -191,6 +192,7 @@ If you find this repository helpful:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0079-word-search) |
 | [0226-invert-binary-tree](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -218,6 +220,7 @@ If you find this repository helpful:
 | [0067-add-binary](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0079-word-search) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
@@ -417,6 +420,7 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -433,4 +437,8 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
