@@ -214,6 +214,7 @@ If you find this repository helpful:
 | [0038-count-and-say](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
