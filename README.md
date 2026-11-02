@@ -156,6 +156,7 @@ If you find this repository helpful:
 | [0525-contiguous-array](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0560-subarray-sum-equals-k) |
 | [0804-unique-morse-code-words](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0804-unique-morse-code-words) |
+| [0809-expressive-words](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0819-most-common-word) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -229,6 +230,7 @@ If you find this repository helpful:
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0804-unique-morse-code-words](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0804-unique-morse-code-words) |
+| [0809-expressive-words](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
@@ -345,6 +347,7 @@ If you find this repository helpful:
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0809-expressive-words](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0809-expressive-words) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
