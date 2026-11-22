@@ -232,6 +232,7 @@ If you find this repository helpful:
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0647-palindromic-substrings) |
 | [0792-number-of-matching-subsequences](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0806-number-of-lines-to-write-string) |
@@ -324,6 +325,7 @@ If you find this repository helpful:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0647-palindromic-substrings) |
 | [0792-number-of-matching-subsequences](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0792-number-of-matching-subsequences) |
 ## Greedy
 |  |
@@ -354,6 +356,7 @@ If you find this repository helpful:
 | [0345-reverse-vowels-of-a-string](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0647-palindromic-substrings](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0647-palindromic-substrings) |
 | [0809-expressive-words](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0809-expressive-words) |
 | [0844-backspace-string-compare](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0844-backspace-string-compare) |
 ## Sorting
