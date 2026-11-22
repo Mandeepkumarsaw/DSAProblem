@@ -162,6 +162,7 @@ If you find this repository helpful:
 | [0811-subdomain-visit-count](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0819-most-common-word) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1672-richest-customer-wealth](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1672-richest-customer-wealth) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -464,4 +465,5 @@ If you find this repository helpful:
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/0079-word-search) |
+| [1672-richest-customer-wealth](https://github.com/Mandeepkumarsaw/DSAProblem/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
